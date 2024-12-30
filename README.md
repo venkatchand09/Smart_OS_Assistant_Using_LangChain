@@ -11,7 +11,7 @@ Follow these steps to set up the project on your local machine.
 
 Clone the repository to your local machine using Git:
 
-git clone https://github.com/Poornakgps/Smart-OS.git
+git clone https://github.com/venkatchand09/Smart_OS_Assistant_Using_LangChain.git
 cd smart-os
 
 ### 2. Create and Activate a Virtual Environment
