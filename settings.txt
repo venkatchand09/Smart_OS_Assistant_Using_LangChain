@@ -1,0 +1,90 @@
+About, ms-settings:about
+Activation, ms-settings:activation
+Apps & Features, ms-settings:appsfeatures
+Apps & Features App, ms-settings:appsfeatures-app
+Autoplay, ms-settings:autoplay
+Backup, ms-settings:backup
+Battery Saver, ms-settings:batterysaver
+Battery Saver Settings, ms-settings:batterysaver-settings
+Bluetooth, ms-settings:bluetooth
+Camera, ms-settings:camera
+Cellular, ms-settings:cellular
+Clipboard, ms-settings:clipboard
+Cloud Storage, ms-settings:cloudstorage
+Colors, ms-settings:colors
+Connect, ms-settings:connect
+Cross Device, ms-settings:crossdevice
+Data Sharing, ms-settings:datasharing
+Date & Time, ms-settings:dateandtime
+Default Apps, ms-settings:defaultapps
+Developers, ms-settings:developers
+Display, ms-settings:display
+Email & Accounts, ms-settings:emailandaccounts
+Email & Accounts (Work), ms-settings:emailandaccounts-work
+Family Safety, ms-settings:familysafety
+Find My Device, ms-settings:findmydevice
+Gaming Broadcasting, ms-settings:gaming-broadcasting
+Gaming Game DVR, ms-settings:gaming-gamedvr
+Gaming Game Bar, ms-settings:gaming-gamebar
+Gaming Game Mode, ms-settings:gaming-gamemode
+Gaming Xbox Networking, ms-settings:gaming-xboxnetworking
+Gaming Xbox Game Bar, ms-settings:gaming-xboxgamebar
+Language, ms-settings:language
+Language Options, ms-settings:language-options
+Lock Screen, ms-settings:lockscreen
+Maps, ms-settings:maps
+Messaging, ms-settings:messaging
+Mixed Reality, ms-settings:mixedreality
+Mobile Devices, ms-settings:mobile-devices
+Network, ms-settings:network
+Network Cellular, ms-settings:network-cellular
+Network Dial-up, ms-settings:network-dialup
+Network DirectAccess, ms-settings:network-directaccess
+Network Ethernet, ms-settings:network-ethernet
+Network Mobile Hotspot, ms-settings:network-mobilehotspot
+Network Proxy, ms-settings:network-proxy
+Network VPN, ms-settings:network-vpn
+Night Light, ms-settings:nightlight
+Notifications, ms-settings:notifications
+OneDrive, ms-settings:onedrive
+Optional Features, ms-settings:optionalfeatures
+Pen, ms-settings:pen
+Personalization, ms-settings:personalization
+Power, ms-settings:power
+Privacy, ms-settings:privacy
+Privacy Account Info, ms-settings:privacy-accountinfo
+Privacy Activity History, ms-settings:privacy-activityhistory
+Privacy Calendar, ms-settings:privacy-calendar
+Privacy Call History, ms-settings:privacy-callhistory
+Privacy Camera, ms-settings:privacy-camera
+Privacy Contacts, ms-settings:privacy-contacts
+Privacy Documents, ms-settings:privacy-documents
+Privacy Email, ms-settings:privacy-email
+Privacy Feedback, ms-settings:privacy-feedback
+Privacy Location, ms-settings:privacy-location
+Privacy Messaging, ms-settings:privacy-messaging
+Privacy Microphone, ms-settings:privacy-microphone
+Privacy Notifications, ms-settings:privacy-notifications
+Privacy Other Devices, ms-settings:privacy-otherdevices
+Privacy Phone Calls, ms-settings:privacy-phonecalls
+Privacy Radios, ms-settings:privacy-radios
+Privacy Speech Typing, ms-settings:privacy-speechtyping
+Privacy Tasks, ms-settings:privacy-tasks
+Privacy Webcam, ms-settings:privacy-webcam
+Project, ms-settings:project
+Region Formatting, ms-settings:regionformatting
+Remote Desktop, ms-settings:remotedesktop
+Screen Rotation, ms-settings:screenrotation
+Search, ms-settings:search
+Settings, ms-settings:
+Sign-In Options, ms-settings:signinoptions
+Sync, ms-settings:sync
+Troubleshoot, ms-settings:troubleshoot
+Typing, ms-settings:typing
+USB, ms-settings:usb
+Video, ms-settings:video
+Windows Defender, ms-settings:windowsdefender
+Windows Insider, ms-settings:windowsinsider
+Windows Update, ms-settings:windowsupdate
+Workplace, ms-settings:workplace
+Your Info, ms-settings:yourinfo
